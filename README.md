@@ -1,0 +1,1 @@
+# multilingual_scene_text_recognition_project
